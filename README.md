@@ -3,7 +3,16 @@
 
 ## Folder Structure
 ### Behavioral Design Pattern: 
-- **[src/](/Behavioral/Observer)**: Observer
-- **[src/](/Behavioral/Strategy)**: Strategy
+- **[Observer](/Behavioral/Observer)**
+- **[Strategy](/Behavioral/Strategy)**
+- **[State](/Behavioral/State)**
+  
+### Structural Design Pattern: 
+- **[Adapter](/Structural/Adapter)**
+- **[Facade](/Structural/Facade)**
+
+### Creational Design Pattern: 
+- **[Factory](/Creational/Factory)**
+- **[Singleton](/Creational/Singleton)**
 
 
