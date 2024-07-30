@@ -1,4 +1,4 @@
-# Exercise 1 : Promblem Statement on Design Pattern
+# Exercise 1 : Problem Statement on Design Pattern
 
 
 ## Folder Structure
