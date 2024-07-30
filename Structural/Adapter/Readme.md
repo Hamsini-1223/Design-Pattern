@@ -4,4 +4,4 @@ Connecting Assessment and LMS: Suppose the company has an internal assessment to
 
 **Usage**
 - javac -source 1.8 -target 1.8 -d bin adapter/*.java
-- java -cp bin adapter.AdapterPatternMain.java
+- java -cp bin adapter.AdapterPatternMain
