@@ -6,4 +6,4 @@ Description: The Strategy pattern can be used to define different teaching metho
 
 **Usage**
 - javac -source 1.8 -target 1.8 -d bin strategy/*.java 
-- java -cp bin strategy.StrategyPatternMain.java
+- java -cp bin strategy.StrategyPatternMain
