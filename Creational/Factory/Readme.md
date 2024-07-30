@@ -4,4 +4,4 @@ Flexible Object Creation: Allows the system to delegate the creation of objects 
 
 **Usage**
 - javac -source 1.8 -target 1.8 -d bin factory/*.java
-- java -cp bin factory.FactoryMethodPatternMain.java 
+- java -cp bin factory.FactoryMethodPatternMain
